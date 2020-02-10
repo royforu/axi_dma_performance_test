@@ -8,5 +8,9 @@ a simple dma test
 
 環境:
 Vivado 2019.1
+
 board: zc706
+
 pynq version:v2.5
+
+
